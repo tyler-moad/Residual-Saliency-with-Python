@@ -1,6 +1,6 @@
 # Residual-Saliency-with-Python
 
-##### The ability of human visual system to detect visualsaliency is extraordinarily fast and reliable. However, computational modeling of this basic intelligent behavior still remains a challenge. Here is a simple method for the visual saliency detection. This model is independent of features, categories, or other forms of prior knowledge of the objects. By analyzing the log-spectrum of an input image, we extract the spectral residual of an image in spectral domain, and propose a fast method to construct the corresponding saliency map in spatial domain. 
+##### The ability of human visual system to detect visualsaliency is extraordinarily fast and reliable. However, computational modeling of this basic intelligent behavior still remains a challenge. Here is a simple method for the visual saliency detection. This model is independent of features, categories, or other forms of prior knowledge of the objects. By analyzing the log-spectrum of an input image, we extract the spectral residual of an image in spectral domain, and propose a fast method to construct the corresponding saliency map in spatial domain. This method was proposed in 2007 in the article cited below.
 
 ##### In the following, we test this method on natural images and explore applying it to rule of thirds compliance in photographies.
 
