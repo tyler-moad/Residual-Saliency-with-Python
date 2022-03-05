@@ -8,7 +8,7 @@
 
 
 #### Here is an example of great rule of thirds use in this picture (Source: Wikipédia -https://en.wikipedia.org/wiki/Rule_of_thirds)
-![rule%20of%20thirds.gif](rule of thirds.gif)
+![rule%20of%20thirds.gif](rule_of_thirds.gif)
 
 ### Dependency
 - OpenCV
